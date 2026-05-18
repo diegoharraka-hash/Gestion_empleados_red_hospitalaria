@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gestion_empleados_red_hospitalaria/Gestion_empleados_red_hospitalaria.vcxproj" Id="05b43cf1-3f7a-4f89-9510-a3bd60604c47" />
+</Solution>
